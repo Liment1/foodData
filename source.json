@@ -3,73 +3,73 @@
     {
       "id": 0,
       "name": "Famous",
-      "link": "imageList[0]",
+      "link": null,
       "description": "Nasi Campur babi"
     },
     {
       "id": 1,
       "name": "Famous",
-      "link": "imageList[1]",
+      "link": null,
       "description": "Babi Guling"
     },
     {
       "id": 2,
       "name": "Famous",
-      "link": "imageList[2]",
+      "link": null,
       "description": "Ayam Betutu"
     },
     {
       "id": 3,
       "name": "Famous",
-      "link": "imageList[3]",
+      "link": null,
       "description": "Sate Lilit"
     },
     {
       "id": 4,
       "name": "Famous",
-      "link": "imageList[4]",
+      "link": null,
       "description": "Lawar"
     },
     {
       "id": 5,
       "name": "Famous",
-      "link": "imageList[5]",
+      "link": null,
       "description": "Sambal Matah"
     },
     {
       "id": 6,
       "name": "Suggestions",
-      "link": "imageList[6]",
+      "link": null,
       "description": "Bebek Goreng"
     },
     {
       "id": 7,
       "name": "Famous",
-      "link": "imageList[7]",
+      "link": null
       "description": "Sate Babi"
     },
     {
       "id": 8,
       "name": "Suggestions",
-      "link": "imageList[8]",
+      "link": null,
       "description": "Nasi Tepeng"
     },
     {
       "id": 9,
       "name": "Suggestions",
-      "link": "imageList[9]",
+      "link": null,
       "description": "Tipat Blayag"
     },
     {
       "id": 10,
       "name": "Famous",
-      "link": "imageList[10]",
+      "link": null,
       "description": "Sate Plecing"
     },
     {
       "id": 11,
       "name": "Suggestions",
-      "link": "imageList[11]",
+      "link": null,
       "description": "Sambal Embe"
     }
   ]
