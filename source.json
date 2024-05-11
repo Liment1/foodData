@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Lawar",
       "description": "Lawar adalah masakan berupa campuran sayur-sayuran dan daging cincang yang dibumbui secara merata yang berasal dari Bali. Makanan ini lazim disajikan dalam rumah tangga di Bali atau dijual secara luas di rumah-rumah makan dengan sebutan lawar Bali. Lawar dibuat dari daging rebus yang dicincang, sayuran, sejumlah bumbu-bumbu seperti kunyit, kemiri, bawang merah, bawang putih, dan kelapa. Kadang-kadang di beberapa jenis lawar diberikan unsur yang dapat menambah rasa dari lawar itu yaitu darah dari daging itu sendiri. Darah tersebut dicampurkan dengan bumbu-bumbu tertentu sehingga menambah lezat lawar tersebut. Lawar tidak dapat bertahan lama, jika didiamkan di udara terbuka hanya bertahan setengah hari.",
-      "tag": "famous"
+      "tag": ""
     },
     {
       "id": 5,
@@ -40,7 +40,7 @@
       "id": 6,
       "name": "Bebek Goreng",
       "description": "Bebek goreng khas Bali merupakan olahan bebek yang dimarinasi dengan bumbu rempah, digoreng, dan disajikan dengan sambal matah. Bebek goreng khas Bali ini rasanya gurih dan teksturnya renyah, karena digoreng hingga garing.",
-      "tag": "famous"
+      "tag": ""
     },
     {
       "id": 7,
@@ -58,7 +58,7 @@
       "id": 9,
       "name": "Tipat Blayag",
       "description": "Tipat Blayag merupakan makanan yang terbuat dari ketupat yang disiram dengan kuah kuning atau biasa disebut sebagai kuah ayam nyat-nyat. Makanan tersebut biasa disajikan dengan sayur urap, telur ayam sisir, sambal, kedelai goreng, keripik kulit, dan ayam bumbu. Ditambah dengan bawang goreng, kedelai goreng, dan serundeng, Tipat Blayag akan menghasilkan rasa gurih dan lezat yang khas.",
-      "tag": "famous"
+      "tag": ""
     },
     {
       "id": 10,
@@ -70,7 +70,7 @@
       "id": 11,
       "name": "Sambal Embe",
       "description": "Sambal embe terdiri dari bawang merah, cabai rawit, cabai hijau, terasi matang, jeruk limau, garam, minyak. Pada beberapa resep juga ditambahkan bawang putih. ya. Pada sambal embe, bawang digoreng sampai setengah matang atau sampai garing tergantung selera.",
-      "tag": "famous"
+      "tag": ""
     }
   ]
 }
