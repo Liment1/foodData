@@ -7,6 +7,7 @@
       "description": "Nasi Campur Bali adalah makanan khas Bali yang terdiri dari nasi putih yang disajikan bersamaan dengan berbagai macam lauk pauk, seperti ayam suwir, sate lilit, telur dadar, tempe goreng, tahu goreng, sayur lodeh, sambal, dan kerupuk. Hidangan ini menjadi daya tarik tersendiri karena kelezatan rempah-rempah Bali yang menjadi ciri khasnya. Selain itu harganya juga cukup terjangkau, sehingga bisa dinikmati oleh semua kalangan.",
       "jenis": "Babi Nasi",
       "tag": "famous"
+      "rating" : 4.9
     },
     {
       "id": 1,
@@ -15,6 +16,7 @@
       "description": "Babi guling atau babi putar adalah sejenis makanan yang terbuat dari anak babi betina atau jantan yang perutnya diisikan dengan bumbu dan sayuran seperti daun ketela pohon dan lalu dipanggang sambil diputar-putar (diguling-gulingkan) sampai matang dengan ditandai dengan perubahan warna kulit menjadi kecokelatan dan renyah.",
       "jenis": "Babi",
       "tag": "famous"
+      "rating" : 4.5
     },
     {
       "id": 2,
@@ -23,6 +25,7 @@
       "description": "Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan, kemudian dibalurkan bumbu khas Bali yang dikenal dengan base genep di seluruh permukaan daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya. Daging ayam yang telah dibumbui kemudian direbus atau langsung dibakar hingga menghasilkan aroma yang khas. Aroma yang muncul disebabkan karena adanya pemanasan yang menyebabkan air dan lemak daging ikut menguap. Semakin banyak uap yang dihasilkan, semakin kuat dan enak aromanya.",
       "jenis": "Ayam",
       "tag": "famous"
+      "rating" : 4.3
     },
     {
       "id": 3,
@@ -31,6 +34,7 @@
       "description": "Sate Lilit adalah sebuah varian sate asal Bali. Sate ini terbuat dari daging babi, ikan, ayam, daging sapi, atau bahkan kura-kura yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica. Daging cincang yang telah berbumbu dilekatkan pada sebuah bambu atau tebu, kemudian dipanggang di atas arang. Tidak seperti sate lainnya yang dibuat dengan tusuk sate yang sempit dan tajam, tusuk sate lilit berbentuk datar dan lebar. Permukaan yang lebih luas memungkinkan daging cincang untuk melekat. ",
       "jenis": "Ayam Babi Sapi Daging",
       "tag": "famous"
+      "rating" : 4.4
     },
     {
       "id": 4,
@@ -39,6 +43,7 @@
       "description": "Lawar adalah masakan berupa campuran sayur-sayuran dan daging cincang yang dibumbui secara merata yang berasal dari Bali. Makanan ini lazim disajikan dalam rumah tangga di Bali atau dijual secara luas di rumah-rumah makan dengan sebutan lawar Bali. Lawar dibuat dari daging rebus yang dicincang, sayuran, sejumlah bumbu-bumbu seperti kunyit, kemiri, bawang merah, bawang putih, dan kelapa. Kadang-kadang di beberapa jenis lawar diberikan unsur yang dapat menambah rasa dari lawar itu yaitu darah dari daging itu sendiri. Darah tersebut dicampurkan dengan bumbu-bumbu tertentu sehingga menambah lezat lawar tersebut. Lawar tidak dapat bertahan lama, jika didiamkan di udara terbuka hanya bertahan setengah hari.",
       "jenis": "Sayur",
       "tag": ""
+      "rating" : 4.6
     },
     {
       "id": 5,
@@ -47,6 +52,7 @@
       "description": "Sambal matah adalah sambal tradisional Bali yang dapat ditemukan di seluruh daerah di Provinsi Bali. Matah memiliki arti mentah. Sambal matah merupakan sambal yang berbahan mentah tanpa digerus (diulek). Bahan-bahan sambal matah, yaitu: bawang merah, cabai merah atau cabai rawit , terasi, garam, sereh, jeruk lemo, dan minyak kelapa",
       "jenis" : "Sambal",
       "tag": "famous"
+      "rating" : 4.9
     },
     {
       "id": 6,
@@ -55,6 +61,7 @@
       "description": "Bebek goreng khas Bali merupakan olahan bebek yang dimarinasi dengan bumbu rempah, digoreng, dan disajikan dengan sambal matah. Bebek goreng khas Bali ini rasanya gurih dan teksturnya renyah, karena digoreng hingga garing.",
       "jenis" : "Bebek",
       "tag": ""
+      "rating" : 4.2
     },
     {
       "id": 7,
@@ -63,6 +70,7 @@
       "description": "Sate babi sama enaknya dengan sate ayam atau sapi. Karena dagingnya empuk diselingi lemak rasanya lebih juicy. Apalagi sate babi ini dibumbui manis gurih. Sate babi bisa diolah dengan bumbu tradisional seperti bumbu sate manis sapi. bawang putih dan ketumbar serta kecap manis memberi rasa legit gurih yang enak. Terutama saat dimakan hangat. Sebaiknya gunakan daging babi bagian has yang lebih empuk. Selingan potongan lemak pada sate akan membuat sate jadi juicy dan bumbunya memberi aroma harum saat dibakar.",
       "jenis" : "Babi Sate",
       "tag": "famous"
+      "rating" : 4.0
     },
     {
       "id": 8,
@@ -71,6 +79,7 @@
       "description": "Nasi Tepeng adalah hidangan sarapan khas daerah Gianyar Bali yang terbuat dari campuran nasi dan rempah-rempah. Teksturnya memang agak lembek, namun mempunyai cita rasa yang berbeda. ",
       "jenis" : "Nasi",
       "tag": "famous"
+      "rating" : 4.1
     },
     {
       "id": 9,
@@ -79,6 +88,7 @@
       "description": "Tipat Blayag merupakan makanan yang terbuat dari ketupat yang disiram dengan kuah kuning atau biasa disebut sebagai kuah ayam nyat-nyat. Makanan tersebut biasa disajikan dengan sayur urap, telur ayam sisir, sambal, kedelai goreng, keripik kulit, dan ayam bumbu. Ditambah dengan bawang goreng, kedelai goreng, dan serundeng, Tipat Blayag akan menghasilkan rasa gurih dan lezat yang khas.",
       "jenis" : "ketupat",
       "tag": ""
+      "rating" : 3.9
     },
     {
       "id": 10,
@@ -87,6 +97,7 @@
       "description": "Sate plecing merupakan makanan khas Bali daerah Singaraja. Rasanya terkenal pedas, gurih, dan asam segar. Hampir menyerupai rasa bumbu sayur plecing yang di kenal masyarakat pada umumnya. Bumbu sate pada umumnya terdiri dari bumbu kecap atau bumbu kacang.",
       "jenis" : "Sate Daging Babi Ayam",
       "tag": "famous"
+      "rating" : 4.2
     },
     {
       "id": 11,
@@ -95,6 +106,7 @@
       "description": "Sambal embe terdiri dari bawang merah, cabai rawit, cabai hijau, terasi matang, jeruk limau, garam, minyak. Pada beberapa resep juga ditambahkan bawang putih. ya. Pada sambal embe, bawang digoreng sampai setengah matang atau sampai garing tergantung selera.",
       "jenis" : "Sambal",
       "tag": ""
+      "rating" : 4.1
     }
   ]
 }
